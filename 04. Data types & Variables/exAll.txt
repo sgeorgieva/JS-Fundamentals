@@ -1,0 +1,6 @@
+ex.1 The diffrend literals in JavaScript are: boolean, string, number, null, undefined, object .
+
+ex.2 let quotedText = "How you doin'?', Joey said";
+
+ex.3 typeof(quotedText);
+    
